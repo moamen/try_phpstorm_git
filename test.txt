@@ -7,3 +7,5 @@ add new lines
 addding more lines
 
 edit in second
+
+make first conflict
